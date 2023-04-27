@@ -1,0 +1,209 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 36px 35px 0px 35px;
+}
+
+.logo {
+  width: 170px;
+  height: 39px;
+  font-family: "PP Cirka";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 39px;
+  color: #000000;
+}
+
+.logo-right {
+  color: #6f57e9;
+}
+
+#form-book {
+  width: 300px;
+  height: 476px;
+  margin-top: -264px;
+}
+.margin-top {
+  margin-top: 95px;
+}
+
+#chatbutton {
+  padding: 22px 25px;
+  border-radius: 50%;
+  background-color: #6f57e9;
+}
+
+#chatbutton:hover {
+  opacity: 0.9;
+}
+.form {
+  width: 500px;
+  margin: auto;
+}
+
+/* Search Bar */
+
+#searchbar {
+  width: 1350px;
+  height: 82px;
+  margin-left: 77px;
+  border-radius: 5px;
+  margin-top: 132px;
+}
+
+.inputcity {
+  width: 450px;
+  height: 82px;
+  border-right: none;
+  padding: 20px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: none;
+  background-color: #ffffff;
+}
+
+.inputdestination {
+  width: 450px;
+  height: 82px;
+  border-left: none;
+  padding: 20px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: none;
+  background-color: #ffffff;
+}
+
+.calendar {
+  width: 280px;
+  height: 82px;
+  padding: 20px;
+  border: none;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.arrow-button {
+  background-color: #9747ff;
+  border-color: #9747ff;
+  width: 36px !important;
+  height: 36px;
+  border-radius: 8px;
+  margin-left: 15px;
+}
+.arrow-right {
+  color: #ffffff;
+  background-color: #0d6efd;
+}
+
+.arrow-button:hover {
+  opacity: 0.9;
+}
+
+.arrow-right:hover {
+  background-color: #0b5ed7;
+}
+
+.Load {
+  width: 280px;
+  height: 82px;
+  background-color: #fff;
+  padding: 20px;
+}
+
+.button-align {
+  height: 82px;
+  background-color: #fff;
+  padding: 20px;
+}
+
+.message {
+  color: #ffffff;
+  background-color: #6f57e9;
+}
+
+.message:hover {
+  opacity: 0.9;
+}
+
+/* Drop DOWN */
+#drop-menu {
+  background-color: #fff;
+}
+
+
+/* Booking Page */
+
+#booking-summary {
+  height: 256px !important;
+}
+
+#icons-booking {
+  margin: 0px 40px;
+}
+
+#express {
+  margin-top: 80px;
+  margin-left: 202px;
+  font-family: Figtree;
+}
+
+#plane {
+  margin-top: -5px;
+}
+
+#monument {
+  margin-top: 20px;
+}
+
+#line {
+  margin-top: 12px;
+}
+
+#weight{
+  width: 200px;
+  height: 165px;
+}
+
+
+#insurance{
+  width: 430px;
+  height: 270px;
+}
+
+#insurance-img{
+  margin-top: 100p;
+}
+
+#seller{
+  width: 430px;
+  height: 270px;
+}
+
+#margin{
+  margin-top: -220px;
+}
+
+
+.Flex{
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+  background-color: #f0eded;
+}
+
+.button{
+  margin-left: 140px;
+  height: 50px;
+  margin-top: 50px;
+}
+
+.bot{
+  width: 200px;
+}
+
+.list {
+  margin-top: -200px;
+}
